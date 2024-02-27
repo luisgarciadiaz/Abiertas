@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vs/Abiertas
+/.vs/Abiertas/config
+/.vs/Abiertas/config/applicationhost.config
+/.vs/Abiertas/FileContentIndex
+/.vs/Abiertas/FileContentIndex/57a3f2e0-246f-4284-b213-dc7b603575f6.vsidx
+/.vs/Abiertas/FileContentIndex/b119b607-eee5-46f3-852b-2f4833f4cf07.vsidx
+/.vs/Abiertas/v17/Preview
+/.vs/Abiertas/v17/Preview/Browse.VC.db
+/.vs/Abiertas/v17/Preview/Browse.VC.db-shm
+/.vs/Abiertas/v17/Preview/Browse.VC.db-wal
+/.vs/Abiertas/v17/Preview/Browse.VC.opendb
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
