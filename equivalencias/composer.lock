@@ -295,7 +295,7 @@
                 "ext-dom": "*",
                 "ext-mbstring": "*",
                 "phenx/php-font-lib": "0.5.*",
-                "phenx/php-svg-lib": "0.3.*",
+                "phenx/php-svg-lib": "0.5.2",
                 "php": ">=5.4.0"
             },
             "require-dev": {
@@ -575,7 +575,7 @@
         },
         {
             "name": "phenx/php-svg-lib",
-            "version": "v0.5.1",
+            "version": "v0.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PhenX/php-svg-lib.git",
