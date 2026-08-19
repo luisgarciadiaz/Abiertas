@@ -23,7 +23,8 @@
 		"hkvstore/phpthumb": "~2.1.1",
 		"athari/yalinqo": "^2.4.2",
 		"dflydev/dot-access-data": "1.1.0",
-		"hkvstore/dompdf": "~0.8.301"
+		"hkvstore/dompdf": "~0.8.301",
+		"firebase/php-jwt": "^7.0"
 	},
 	"autoload": {}
 }
